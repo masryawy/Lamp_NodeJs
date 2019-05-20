@@ -3,8 +3,7 @@ This is For Awamer Alshabaka Server usage Not Compitable With another servers# L
 
 install it 
 ```
-sudo apt-get install git -y
-git https://github.com/masryawy/Lamp_NodeJs.git
+https://raw.githubusercontent.com/masryawy/Lamp_NodeJs/master/lamp.sh
 chmod 755 lamp.sh
 sh lamp.sh
 ```
