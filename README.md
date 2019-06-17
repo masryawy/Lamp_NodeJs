@@ -3,7 +3,7 @@ This is For Awamer Alshabaka Server usage Not Compitable With another servers# L
 
 install it 
 ```
-https://raw.githubusercontent.com/masryawy/Lamp_NodeJs/master/lamp.sh
+wget https://raw.githubusercontent.com/masryawy/Lamp_NodeJs/master/lamp.sh
 chmod 755 lamp.sh
 sh lamp.sh
 ```
