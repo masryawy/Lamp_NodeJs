@@ -58,4 +58,4 @@ sudo phpenmod mcrypt
 # Restart Apache
 echo -e "$Purple \n Restarting Apache $Color_Off"
 sudo service apache2 restart
-npm -i -g forever
+npm i -g forever
